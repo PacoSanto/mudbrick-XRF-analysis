@@ -11,7 +11,6 @@ Analysis of XRF data from archaeological mudbricks using PCA and statistical met
 ## Requirements
 - Python 3.8+
 - Required Python packages in `requirements.txt`
-- Matlab R2020a+ (for Matlab scripts)
 
 ## Usage
 See `docs/usage_guide.md` for detailed instructions.
