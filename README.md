@@ -1,4 +1,4 @@
-# Mudbrick Analysis Project
+# Mudbrick XRF-PCA Analysis Project
 
 Analysis of XRF data from archaeological mudbricks using PCA and statistical methods.
 
