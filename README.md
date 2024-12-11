@@ -1,2 +1,23 @@
-# mudbrick-XRF-analysis
-Useful py script for XRF data analysis with PCA
+# Mudbrick Analysis Project
+
+Analysis of XRF data from archaeological mudbricks using PCA and statistical methods.
+
+## Project Structure
+- `data/`: Raw XRF data
+- `scripts/`: Analysis scripts (Python)
+- `results/`: Output figures and analysis results
+- `docs/`: Detailed documentation
+
+## Requirements
+- Python 3.8+
+- Required Python packages in `requirements.txt`
+- Matlab R2020a+ (for Matlab scripts)
+
+## Usage
+See `docs/usage_guide.md` for detailed instructions.
+
+## Credits
+[Francesco Santoro De Vico]
+
+## Citation
+[Article in progress Volpi et al. 2025]
