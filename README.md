@@ -17,7 +17,7 @@ Analysis of XRF data from archaeological mudbricks using PCA and statistical met
 See `docs/usage_guide.md` for detailed instructions.
 
 ## Credits
-[Francesco Santoro De Vico]
+[Francesco Santoro De Vico](https://www.linkedin.com/in/francesco-santoro-geo/)
 
 ## Citation
 [Article in progress Volpi et al. 2025]
